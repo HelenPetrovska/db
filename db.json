@@ -11,7 +11,12 @@
             "authorImg":"./images/author.jpg",
             "authorName":"David Smith",
             "postDate":"January 10, 2021",
-            "nb":"1"
+            "nb":"1",
+            "tags":[
+                "livestyle", 
+                "tips", 
+                "fashion"
+            ]
         },
         {
             "id":2,
